@@ -1,0 +1,61 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "faaarmer@gmail.com",
+    "longName": "LifX white",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGES_LOGO_SPLASH_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGES_MENU_ICON_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/lifx_logo_big.png",
+                "name": "IMAGES_LIFX_LOGO_BIG_PNG",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "LifX white",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "063855d6-8601-45ce-a5f9-c1d05fb1925f",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
